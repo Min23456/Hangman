@@ -107,8 +107,22 @@ const words = [
 "bed","pillow","blanket","curtain","carpet","rug","lamp","ceiling","floor","door",
 "window","wall","shelf","cabinet","drawer","mirror","clock","fan","heater","airconditioner",
 "refrigerator","oven","microwave","stove","toaster","kettle","blender","dishwasher","washingmachine","dryer",
-"iron","vacuum","broom","mop","bucket","soap","shampoo","toothpaste","toothbrush","towel"
+"iron","vacuum","broom","mop","bucket","soap","shampoo","toothpaste","toothbrush","towel", "notepad","folder","binder","highlighter","marker","glue","tape","scissors","calculator","ruler",
+ "eraser","whiteboard","chalk","crayon","paint","canvas","easel","palette","apron","desk",
+"couch","mattress","dresser","nightstand","hanger","closet","garage","yard","garden","grass",
+"tree","bush","flower","leaf","soil","shovel","rake","hose","sprinkler","grill",
+"charcoal","lighter","match","fireplace","chimney","roof","fence","gate","driveway","sidewalk",
+"street","road","highway","bridge","tunnel","traffic","bus","train","subway","car",
+"truck","van","motorcycle","bike","scooter","helmet","seatbelt","airbag","gas","diesel",
+"engine","tire","wheel","brake","mirror","wiper","hood","trunk","bumper","license",
+"signal","headlight","taillight","park","garage","station","airport","runway","terminal","ticket",
+"suitcase","luggage","checkin","boarding","arrival","departure","pilot","flight","crew","windowseat",
+"aisleseat","receipt","invoice","package","delivery","post","mailbox","printerpaper","usb","memory",
+"folder","archive","storage","locker","safe","password","account","profile","username","internet",
+"website","browser","tab","search","click","scroll","download","upload","wifi","bluetooth",
+"server","network","router","cloud","data","file","drive","folder","zip","extract"
 ];
+
 
 
 
